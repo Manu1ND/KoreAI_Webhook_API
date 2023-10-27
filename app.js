@@ -14,7 +14,7 @@ function sendMssg(mssg) {
                 "val": mssg
             },
             "from": {
-                "id": "manjunath.naik2@idfcbank.com"
+                "id": ""
             }
         }
     });
